@@ -1,0 +1,15 @@
+creation_timestamp: 1761858766755
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1761858766755
+model_id: ''
+name: IrisClassifier_Sklearn
+run_id: ''
+run_link: ''
+source: models:/IrisClassifier_Sklearn/1
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/models/m-1090a358dc614e27a7378c1e4f494824/artifacts
+user_id: null
+version: 2
